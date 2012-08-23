@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\Scripts\StartMenu.cs">
+    <Files>
+      <File FileName="Assets\Orthello\Examples\1 - Paralax scrolling FilledSprite\CExample1.cs" Line="18" Column="19" />
+      <File FileName="Assets\Orthello\Examples\2 - Moving collidable sprites\CExample2.cs" Line="130" Column="18" />
+      <File FileName="Assets\Resources\Scripts\PonyPlayer.cs" Line="33" Column="65" />
+      <File FileName="Assets\Resources\Scripts\Comet.cs" Line="39" Column="89" />
+      <File FileName="Assets\Resources\Scripts\Planet.cs" Line="26" Column="50" />
+      <File FileName="Assets\Resources\Scripts\BackHole.cs" Line="18" Column="20" />
+      <File FileName="Assets\Resources\Scripts\StartMenu.cs" Line="18" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
